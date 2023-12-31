@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNewYork</string>
+    <string name="back_button">Back</string>
+    <string name="categories">Categories</string>
+    <string name="places">Places</string>
+    <string name="overview">Overview</string>
+    <string name="home_introduction">Look around the available categories you can discover and choose your next place to visit.</string>
+    <string name="share">Share</string>
+    <string name="get_direction">Get direction</string>
+    <string name="places_introduction">Select a category to display the available places.</string>
+    <string name="introduction_details">Select a place to display its details.</string>
+</resources>
